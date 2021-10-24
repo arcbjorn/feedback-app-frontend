@@ -1,6 +1,6 @@
 # Feedback App Frontend
 
-using Svelte
+using Svelte & Typescript
 
 ```shell
 
